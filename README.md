@@ -1,2 +1,2 @@
 # emulators
-CPU emulators on C/C++
+CPU emulators made in C/C++
